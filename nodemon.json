@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER": "jibin",
+        "DB_PASSWORD" : "RpjYdY8z26N6o1b7",
+        "DB_NAME": "dbMern",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
