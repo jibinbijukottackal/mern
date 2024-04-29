@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 
 app.use(cors());
 app.use(cors({
-  origin: 'https://mern-75e3d.web.app'
+  origin: 'https://mern-f2d51.web.app'
 }));
 
 app.use('/api/places', placesRoutes);
